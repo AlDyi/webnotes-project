@@ -1,0 +1,6 @@
+notes\LogInSignUp.class
+notes\Validation.class
+notes\domain\Person.class
+notes\ui\NotesController.class
+notes\db\PersonStorage.class
+notes\StartNotes.class
